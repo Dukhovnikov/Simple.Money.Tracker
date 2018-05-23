@@ -1,0 +1,11 @@
+D:\YandexDisk\Self-development\Projects\Simple-money-tracker-ConsoleApp\Simple-money-tracker-ConsoleApp\bin\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp-Core.deps.json
+D:\YandexDisk\Self-development\Projects\Simple-money-tracker-ConsoleApp\Simple-money-tracker-ConsoleApp\bin\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp-Core.runtimeconfig.json
+D:\YandexDisk\Self-development\Projects\Simple-money-tracker-ConsoleApp\Simple-money-tracker-ConsoleApp\bin\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp-Core.runtimeconfig.dev.json
+D:\YandexDisk\Self-development\Projects\Simple-money-tracker-ConsoleApp\Simple-money-tracker-ConsoleApp\bin\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp-Core.dll
+D:\YandexDisk\Self-development\Projects\Simple-money-tracker-ConsoleApp\Simple-money-tracker-ConsoleApp\bin\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp-Core.pdb
+D:\YandexDisk\Self-development\Projects\Simple-money-tracker-ConsoleApp\Simple-money-tracker-ConsoleApp\obj\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp-Core.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Self-development\Projects\Simple-money-tracker-ConsoleApp\Simple-money-tracker-ConsoleApp\obj\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp-Core.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Self-development\Projects\Simple-money-tracker-ConsoleApp\Simple-money-tracker-ConsoleApp\obj\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp-Core.AssemblyInfoInputs.cache
+D:\YandexDisk\Self-development\Projects\Simple-money-tracker-ConsoleApp\Simple-money-tracker-ConsoleApp\obj\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp-Core.AssemblyInfo.cs
+D:\YandexDisk\Self-development\Projects\Simple-money-tracker-ConsoleApp\Simple-money-tracker-ConsoleApp\obj\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp-Core.dll
+D:\YandexDisk\Self-development\Projects\Simple-money-tracker-ConsoleApp\Simple-money-tracker-ConsoleApp\obj\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp-Core.pdb

@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\YandexDisk\\Даня\\Self-development\\Projects\\Simple-money-tracker-ConsoleApp\\Simple-money-tracker-ConsoleApp\\Simple-money-tracker-ConsoleApp.csproj",
+    "projectName": "Simple-money-tracker-ConsoleApp",
+    "projectPath": "D:\\YandexDisk\\Даня\\Self-development\\Projects\\Simple-money-tracker-ConsoleApp\\Simple-money-tracker-ConsoleApp\\Simple-money-tracker-ConsoleApp.csproj",
+    "outputPath": "D:\\YandexDisk\\Даня\\Self-development\\Projects\\Simple-money-tracker-ConsoleApp\\Simple-money-tracker-ConsoleApp\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[11.0.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
