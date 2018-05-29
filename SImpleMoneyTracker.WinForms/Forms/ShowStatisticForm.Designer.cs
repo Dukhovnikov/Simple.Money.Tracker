@@ -38,35 +38,35 @@
             this.radLabelSpend = new Telerik.WinControls.UI.RadLabel();
             this.radTextBoxSpend = new Telerik.WinControls.UI.RadTextBox();
             this.radTextBoxCurrentBalance = new Telerik.WinControls.UI.RadTextBox();
-            this.radRadialGaugeCurrentMoney = new Telerik.WinControls.UI.Gauges.RadRadialGauge();
-            this.radialGaugeArc1 = new Telerik.WinControls.UI.Gauges.RadialGaugeArc();
-            this.radialGaugeArc2 = new Telerik.WinControls.UI.Gauges.RadialGaugeArc();
-            this.radialGaugeNeedle1 = new Telerik.WinControls.UI.Gauges.RadialGaugeNeedle();
-            this.radialGaugeLabels1 = new Telerik.WinControls.UI.Gauges.RadialGaugeLabels();
-            this.radialGaugeSingleLabel1 = new Telerik.WinControls.UI.Gauges.RadialGaugeSingleLabel();
             this.radButtonShowSpendingGraph = new Telerik.WinControls.UI.RadButton();
             this.radButtonRemoveTransaction = new Telerik.WinControls.UI.RadButton();
             this.radButtonRemoveCategory = new Telerik.WinControls.UI.RadButton();
             this.panel1 = new System.Windows.Forms.Panel();
             this.radLabelDonutName = new Telerik.WinControls.UI.RadLabel();
             this.linkLabelAbout = new System.Windows.Forms.LinkLabel();
+            this.radThemeManager1 = new Telerik.WinControls.RadThemeManager();
+            this.radRadialGaugeCurrentMoney = new Telerik.WinControls.UI.Gauges.RadRadialGauge();
+            this.radialGaugeArc3 = new Telerik.WinControls.UI.Gauges.RadialGaugeArc();
+            this.radialGaugeArc4 = new Telerik.WinControls.UI.Gauges.RadialGaugeArc();
+            this.radialGaugeLabels2 = new Telerik.WinControls.UI.Gauges.RadialGaugeLabels();
+            this.radialGaugeTicks1 = new Telerik.WinControls.UI.Gauges.RadialGaugeTicks();
+            this.radialGaugeSingleLabel2 = new Telerik.WinControls.UI.Gauges.RadialGaugeSingleLabel();
             ((System.ComponentModel.ISupportInitialize)(this.radButtonAddTransaction)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.radButtonAddCategory)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.radTreeViewCategories)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.radChartViewCategories)).BeginInit();
-            this.radChartViewCategories.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.radLabelSpeedName)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.radLabelProjectName)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.radLabelCurrentBalance)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.radLabelSpend)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.radTextBoxSpend)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.radTextBoxCurrentBalance)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.radRadialGaugeCurrentMoney)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.radButtonShowSpendingGraph)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.radButtonRemoveTransaction)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.radButtonRemoveCategory)).BeginInit();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.radLabelDonutName)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.radRadialGaugeCurrentMoney)).BeginInit();
             this.SuspendLayout();
             // 
             // radButtonAddTransaction
@@ -119,21 +119,20 @@
             // radChartViewCategories
             // 
             this.radChartViewCategories.AreaType = Telerik.WinControls.UI.ChartAreaType.Pie;
-            this.radChartViewCategories.Controls.Add(this.radLabelSpeedName);
-            this.radChartViewCategories.Location = new System.Drawing.Point(752, 123);
+            this.radChartViewCategories.Location = new System.Drawing.Point(736, 123);
             this.radChartViewCategories.Margin = new System.Windows.Forms.Padding(4);
             this.radChartViewCategories.Name = "radChartViewCategories";
             this.radChartViewCategories.ShowGrid = false;
             this.radChartViewCategories.ShowPanZoom = true;
             this.radChartViewCategories.ShowToolTip = true;
             this.radChartViewCategories.ShowTrackBall = true;
-            this.radChartViewCategories.Size = new System.Drawing.Size(343, 312);
+            this.radChartViewCategories.Size = new System.Drawing.Size(377, 330);
             this.radChartViewCategories.TabIndex = 3;
             // 
             // radLabelSpeedName
             // 
             this.radLabelSpeedName.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.radLabelSpeedName.Location = new System.Drawing.Point(89, 279);
+            this.radLabelSpeedName.Location = new System.Drawing.Point(843, 448);
             this.radLabelSpeedName.Name = "radLabelSpeedName";
             this.radLabelSpeedName.Size = new System.Drawing.Size(169, 30);
             this.radLabelSpeedName.TabIndex = 8;
@@ -209,76 +208,6 @@
             this.radTextBoxCurrentBalance.Size = new System.Drawing.Size(164, 31);
             this.radTextBoxCurrentBalance.TabIndex = 6;
             // 
-            // radRadialGaugeCurrentMoney
-            // 
-            this.radRadialGaugeCurrentMoney.BackColor = System.Drawing.Color.White;
-            this.radRadialGaugeCurrentMoney.CausesValidation = false;
-            this.radRadialGaugeCurrentMoney.Items.AddRange(new Telerik.WinControls.RadItem[] {
-            this.radialGaugeArc1,
-            this.radialGaugeArc2,
-            this.radialGaugeNeedle1,
-            this.radialGaugeLabels1,
-            this.radialGaugeSingleLabel1});
-            this.radRadialGaugeCurrentMoney.Location = new System.Drawing.Point(752, 484);
-            this.radRadialGaugeCurrentMoney.Margin = new System.Windows.Forms.Padding(4);
-            this.radRadialGaugeCurrentMoney.Name = "radRadialGaugeCurrentMoney";
-            this.radRadialGaugeCurrentMoney.RangeEnd = 50D;
-            this.radRadialGaugeCurrentMoney.Size = new System.Drawing.Size(343, 312);
-            this.radRadialGaugeCurrentMoney.StartAngle = 205D;
-            this.radRadialGaugeCurrentMoney.SweepAngle = 130D;
-            this.radRadialGaugeCurrentMoney.TabIndex = 6;
-            this.radRadialGaugeCurrentMoney.Text = "Доступно средств";
-            this.radRadialGaugeCurrentMoney.Value = 33.33F;
-            // 
-            // radialGaugeArc1
-            // 
-            this.radialGaugeArc1.BackColor = System.Drawing.Color.Black;
-            this.radialGaugeArc1.BackColor2 = System.Drawing.Color.Black;
-            this.radialGaugeArc1.BindEndRange = true;
-            this.radialGaugeArc1.Name = "radialGaugeArc1";
-            this.radialGaugeArc1.RangeEnd = 33.330001831054688D;
-            this.radialGaugeArc1.Width = 40D;
-            // 
-            // radialGaugeArc2
-            // 
-            this.radialGaugeArc2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(209)))), ((int)(((byte)(209)))), ((int)(((byte)(209)))));
-            this.radialGaugeArc2.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(209)))), ((int)(((byte)(209)))), ((int)(((byte)(209)))));
-            this.radialGaugeArc2.BindStartRange = true;
-            this.radialGaugeArc2.Name = "radialGaugeArc2";
-            this.radialGaugeArc2.RangeEnd = 50D;
-            this.radialGaugeArc2.RangeStart = 33.330001831054688D;
-            this.radialGaugeArc2.Width = 40D;
-            // 
-            // radialGaugeNeedle1
-            // 
-            this.radialGaugeNeedle1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(40)))), ((int)(((byte)(40)))));
-            this.radialGaugeNeedle1.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(40)))), ((int)(((byte)(40)))));
-            this.radialGaugeNeedle1.BackLenghtPercentage = 0D;
-            this.radialGaugeNeedle1.BindValue = true;
-            this.radialGaugeNeedle1.InnerPointRadiusPercentage = 4D;
-            this.radialGaugeNeedle1.LenghtPercentage = 115D;
-            this.radialGaugeNeedle1.Name = "radialGaugeNeedle1";
-            this.radialGaugeNeedle1.Thickness = 0.7D;
-            this.radialGaugeNeedle1.Value = 33.33F;
-            // 
-            // radialGaugeLabels1
-            // 
-            this.radialGaugeLabels1.DrawText = false;
-            this.radialGaugeLabels1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(102)))), ((int)(((byte)(102)))), ((int)(((byte)(102)))));
-            this.radialGaugeLabels1.LabelFontSize = 5F;
-            this.radialGaugeLabels1.LabelRadiusPercentage = 112F;
-            this.radialGaugeLabels1.LabelsCount = 1;
-            this.radialGaugeLabels1.Name = "radialGaugeLabels1";
-            // 
-            // radialGaugeSingleLabel1
-            // 
-            this.radialGaugeSingleLabel1.BindValue = true;
-            this.radialGaugeSingleLabel1.LabelFontSize = 11F;
-            this.radialGaugeSingleLabel1.LabelFormat = "n2";
-            this.radialGaugeSingleLabel1.LabelText = "Text";
-            this.radialGaugeSingleLabel1.LocationPercentage = new System.Drawing.SizeF(0F, 0.25F);
-            this.radialGaugeSingleLabel1.Name = "radialGaugeSingleLabel1";
-            // 
             // radButtonShowSpendingGraph
             // 
             this.radButtonShowSpendingGraph.AllowDrop = true;
@@ -338,7 +267,7 @@
             // radLabelDonutName
             // 
             this.radLabelDonutName.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.radLabelDonutName.Location = new System.Drawing.Point(830, 83);
+            this.radLabelDonutName.Location = new System.Drawing.Point(819, 86);
             this.radLabelDonutName.Name = "radLabelDonutName";
             this.radLabelDonutName.Size = new System.Drawing.Size(207, 30);
             this.radLabelDonutName.TabIndex = 8;
@@ -354,6 +283,73 @@
             this.linkLabelAbout.TabStop = true;
             this.linkLabelAbout.Text = "linkLabel1";
             // 
+            // radRadialGaugeCurrentMoney
+            // 
+            this.radRadialGaugeCurrentMoney.BackColor = System.Drawing.Color.White;
+            this.radRadialGaugeCurrentMoney.CausesValidation = false;
+            this.radRadialGaugeCurrentMoney.Items.AddRange(new Telerik.WinControls.RadItem[] {
+            this.radialGaugeArc3,
+            this.radialGaugeArc4,
+            this.radialGaugeLabels2,
+            this.radialGaugeTicks1,
+            this.radialGaugeSingleLabel2});
+            this.radRadialGaugeCurrentMoney.Location = new System.Drawing.Point(736, 483);
+            this.radRadialGaugeCurrentMoney.Name = "radRadialGaugeCurrentMoney";
+            this.radRadialGaugeCurrentMoney.RangeEnd = 380D;
+            this.radRadialGaugeCurrentMoney.Size = new System.Drawing.Size(377, 330);
+            this.radRadialGaugeCurrentMoney.TabIndex = 6;
+            this.radRadialGaugeCurrentMoney.Text = "radRadialGaugeCurrentMoney";
+            this.radRadialGaugeCurrentMoney.Value = 150F;
+            // 
+            // radialGaugeArc3
+            // 
+            this.radialGaugeArc3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(102)))), ((int)(((byte)(155)))));
+            this.radialGaugeArc3.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(77)))), ((int)(((byte)(110)))), ((int)(((byte)(162)))));
+            this.radialGaugeArc3.BindEndRange = true;
+            this.radialGaugeArc3.Name = "radialGaugeArc3";
+            this.radialGaugeArc3.Radius = 80D;
+            this.radialGaugeArc3.RangeEnd = 150D;
+            this.radialGaugeArc3.Width = 15D;
+            // 
+            // radialGaugeArc4
+            // 
+            this.radialGaugeArc4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(181)))), ((int)(((byte)(181)))), ((int)(((byte)(181)))));
+            this.radialGaugeArc4.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(194)))), ((int)(((byte)(194)))), ((int)(((byte)(194)))));
+            this.radialGaugeArc4.BindStartRange = true;
+            this.radialGaugeArc4.Name = "radialGaugeArc4";
+            this.radialGaugeArc4.Radius = 80D;
+            this.radialGaugeArc4.RangeEnd = 380D;
+            this.radialGaugeArc4.RangeStart = 150D;
+            this.radialGaugeArc4.Width = 15D;
+            // 
+            // radialGaugeLabels2
+            // 
+            this.radialGaugeLabels2.DrawText = false;
+            this.radialGaugeLabels2.LabelFontSize = 5F;
+            this.radialGaugeLabels2.LabelRadiusPercentage = 108F;
+            this.radialGaugeLabels2.LabelsCount = 5;
+            this.radialGaugeLabels2.Name = "radialGaugeLabels2";
+            // 
+            // radialGaugeTicks1
+            // 
+            this.radialGaugeTicks1.CircleTicks = true;
+            this.radialGaugeTicks1.DrawText = false;
+            this.radialGaugeTicks1.Name = "radialGaugeTicks1";
+            this.radialGaugeTicks1.TickColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
+            this.radialGaugeTicks1.TicksCount = 18;
+            this.radialGaugeTicks1.TicksLenghtPercentage = 1F;
+            this.radialGaugeTicks1.TicksOffset = 4;
+            this.radialGaugeTicks1.TicksRadiusPercentage = 95F;
+            this.radialGaugeTicks1.TickThickness = 1F;
+            // 
+            // radialGaugeSingleLabel2
+            // 
+            this.radialGaugeSingleLabel2.BindValue = true;
+            this.radialGaugeSingleLabel2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(76)))), ((int)(((byte)(109)))), ((int)(((byte)(161)))));
+            this.radialGaugeSingleLabel2.LabelText = "Text";
+            this.radialGaugeSingleLabel2.LocationPercentage = new System.Drawing.SizeF(0F, 0F);
+            this.radialGaugeSingleLabel2.Name = "radialGaugeSingleLabel2";
+            // 
             // ShowStatisticForm
             // 
             this.AllowDrop = true;
@@ -361,11 +357,12 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.ClientSize = new System.Drawing.Size(1126, 813);
+            this.Controls.Add(this.radRadialGaugeCurrentMoney);
+            this.Controls.Add(this.radLabelSpeedName);
             this.Controls.Add(this.linkLabelAbout);
             this.Controls.Add(this.radLabelDonutName);
             this.Controls.Add(this.radButtonShowSpendingGraph);
             this.Controls.Add(this.panel1);
-            this.Controls.Add(this.radRadialGaugeCurrentMoney);
             this.Controls.Add(this.radChartViewCategories);
             this.Controls.Add(this.radTreeViewCategories);
             this.Controls.Add(this.radButtonRemoveCategory);
@@ -382,21 +379,19 @@
             ((System.ComponentModel.ISupportInitialize)(this.radButtonAddCategory)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.radTreeViewCategories)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.radChartViewCategories)).EndInit();
-            this.radChartViewCategories.ResumeLayout(false);
-            this.radChartViewCategories.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.radLabelSpeedName)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.radLabelProjectName)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.radLabelCurrentBalance)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.radLabelSpend)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.radTextBoxSpend)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.radTextBoxCurrentBalance)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.radRadialGaugeCurrentMoney)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.radButtonShowSpendingGraph)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.radButtonRemoveTransaction)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.radButtonRemoveCategory)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.radLabelDonutName)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.radRadialGaugeCurrentMoney)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -413,12 +408,6 @@
         private Telerik.WinControls.UI.RadLabel radLabelSpend;
         private Telerik.WinControls.UI.RadTextBox radTextBoxSpend;
         private Telerik.WinControls.UI.RadTextBox radTextBoxCurrentBalance;
-        private Telerik.WinControls.UI.Gauges.RadRadialGauge radRadialGaugeCurrentMoney;
-        private Telerik.WinControls.UI.Gauges.RadialGaugeArc radialGaugeArc1;
-        private Telerik.WinControls.UI.Gauges.RadialGaugeArc radialGaugeArc2;
-        private Telerik.WinControls.UI.Gauges.RadialGaugeNeedle radialGaugeNeedle1;
-        private Telerik.WinControls.UI.Gauges.RadialGaugeLabels radialGaugeLabels1;
-        private Telerik.WinControls.UI.Gauges.RadialGaugeSingleLabel radialGaugeSingleLabel1;
         private Telerik.WinControls.UI.RadButton radButtonShowSpendingGraph;
         private Telerik.WinControls.UI.RadButton radButtonRemoveTransaction;
         private Telerik.WinControls.UI.RadButton radButtonRemoveCategory;
@@ -426,5 +415,12 @@
         private Telerik.WinControls.UI.RadLabel radLabelSpeedName;
         private Telerik.WinControls.UI.RadLabel radLabelDonutName;
         private System.Windows.Forms.LinkLabel linkLabelAbout;
+        private Telerik.WinControls.RadThemeManager radThemeManager1;
+        private Telerik.WinControls.UI.Gauges.RadRadialGauge radRadialGaugeCurrentMoney;
+        private Telerik.WinControls.UI.Gauges.RadialGaugeArc radialGaugeArc3;
+        private Telerik.WinControls.UI.Gauges.RadialGaugeArc radialGaugeArc4;
+        private Telerik.WinControls.UI.Gauges.RadialGaugeLabels radialGaugeLabels2;
+        private Telerik.WinControls.UI.Gauges.RadialGaugeTicks radialGaugeTicks1;
+        private Telerik.WinControls.UI.Gauges.RadialGaugeSingleLabel radialGaugeSingleLabel2;
     }
 }

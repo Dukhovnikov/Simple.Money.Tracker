@@ -9,7 +9,7 @@ using Simple_money_tracker_Core.Abstractions.Models;
 
 namespace SImpleMoneyTracker.WinForms.Implementation.Models
 {
-    internal class Category
+    public class Category 
     {
         [BsonId, BsonIgnoreIfNull, BsonRepresentation(BsonType.ObjectId)]
         public string CategoryId { get; set; }

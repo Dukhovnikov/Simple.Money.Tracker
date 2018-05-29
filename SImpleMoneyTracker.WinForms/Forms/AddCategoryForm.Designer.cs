@@ -1,4 +1,4 @@
-﻿namespace SimpleMoneyTracker.WinForms
+﻿namespace SImpleMoneyTracker.WinForms.Forms
 {
     partial class AddCategoryForm
     {

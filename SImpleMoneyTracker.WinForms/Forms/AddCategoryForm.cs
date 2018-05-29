@@ -1,20 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Configuration;
-using System.Data;
-using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using MongoDB.Bson;
 using MongoDB.Driver;
-using Simple_money_tracker_Core.Abstractions;
-using Simple_money_tracker_Core.Abstractions.Models;
 using SImpleMoneyTracker.WinForms.Implementation.Models;
 
-namespace SimpleMoneyTracker.WinForms
+namespace SImpleMoneyTracker.WinForms.Forms
 {
     public partial class AddCategoryForm : Form
     {

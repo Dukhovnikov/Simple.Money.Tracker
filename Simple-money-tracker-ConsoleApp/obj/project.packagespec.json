@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\YandexDisk\\Даня\\Self-development\\Projects\\Simple-money-tracker-ConsoleApp\\Simple-money-tracker-ConsoleApp\\Simple-money-tracker-ConsoleApp.csproj",
+    "projectUniqueName": "D:\\Repositories\\Simple.Money.Tracker\\Simple-money-tracker-ConsoleApp\\Simple-money-tracker-ConsoleApp.csproj",
     "projectName": "Simple-money-tracker-ConsoleApp",
-    "projectPath": "D:\\YandexDisk\\Даня\\Self-development\\Projects\\Simple-money-tracker-ConsoleApp\\Simple-money-tracker-ConsoleApp\\Simple-money-tracker-ConsoleApp.csproj",
-    "outputPath": "D:\\YandexDisk\\Даня\\Self-development\\Projects\\Simple-money-tracker-ConsoleApp\\Simple-money-tracker-ConsoleApp\\obj\\",
+    "projectPath": "D:\\Repositories\\Simple.Money.Tracker\\Simple-money-tracker-ConsoleApp\\Simple-money-tracker-ConsoleApp.csproj",
+    "outputPath": "D:\\Repositories\\Simple.Money.Tracker\\Simple-money-tracker-ConsoleApp\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

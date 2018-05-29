@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Dukhovnikov\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Simple-money-tracker-ConsoleApp.1560375745.00" t="ExcludeRecursive" />
+    <e p="D:\Repositories\Simple.Money.Tracker" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Simple-money-tracker-ConsoleApp" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controller.cs" t="Include" />
+        <e p="ExecuterDesktop.cs" t="Include" />
+        <e p="Extensions.cs" t="Include" />
+        <e p="Hash.cs" t="Include" />
+        <e p="HexConvert.cs" t="Include" />
+        <e p="Models.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Simple-money-tracker-ConsoleApp.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Simple-money-tracker-ConsoleApp.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Simple-money-tracker-ConsoleApp.sln" t="IncludeFlat" />
+      <e p="Simple-money-tracker-Core" t="IncludeRecursive">
+        <e p="Abstractions" t="Include">
+          <e p="IProjectBuilder.cs" t="Include" />
+          <e p="IRegistry.cs" t="Include" />
+          <e p="IShowDataToUser.cs" t="Include" />
+          <e p="Models" t="Include">
+            <e p="ICategory.cs" t="Include" />
+            <e p="IProject.cs" t="Include" />
+            <e p="ITransaction.cs" t="Include" />
+          </e>
+        </e>
+        <e p="AppLogic.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Simple-money-tracker-Core.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Simple-money-tracker.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Simple-money-tracker.Tests.csproj" t="IncludeRecursive" />
+        <e p="SimpleMoneyTrackerTests.cs" t="Include" />
+      </e>
+      <e p="SImpleMoneyTracker.WinForms" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ClassDiagram1.cd" t="Include" />
+        <e p="Forms" t="Include">
+          <e p="AddCategoryForm.cs" t="Include" />
+          <e p="AddCategoryForm.Designer.cs" t="Include" />
+          <e p="AddCategoryForm.resx" t="Include" />
+          <e p="AddTransactionForm.cs" t="Include" />
+          <e p="AddTransactionForm.Designer.cs" t="Include" />
+          <e p="AddTransactionForm.resx" t="Include" />
+          <e p="CreateProjectForm.cs" t="Include" />
+          <e p="CreateProjectForm.Designer.cs" t="Include" />
+          <e p="CreateProjectForm.resx" t="Include" />
+          <e p="ShowSpendingGraphForm.cs" t="Include" />
+          <e p="ShowSpendingGraphForm.Designer.cs" t="Include" />
+          <e p="ShowSpendingGraphForm.resx" t="Include" />
+          <e p="ShowStatisticForm.cs" t="Include" />
+          <e p="ShowStatisticForm.Designer.cs" t="Include" />
+          <e p="ShowStatisticForm.resx" t="Include" />
+        </e>
+        <e p="ICollectionsModification.cs" t="Include" />
+        <e p="Implementation" t="Include">
+          <e p="Models" t="Include">
+            <e p="Category.cs" t="Include" />
+            <e p="Project.cs" t="Include" />
+            <e p="Transaction.cs" t="Include" />
+          </e>
+          <e p="ProjectBuilderWinForms.cs" t="Include" />
+          <e p="RegistryWinForms.cs" t="Include" />
+          <e p="ShowDataToUserWinForms.cs" t="Include" />
+        </e>
+        <e p="Initializer.cs" t="Include" />
+        <e p="IRepository.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="licenses.licx" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Repository.cs" t="Include" />
+        <e p="SimpleMoneyTracker.WinForms.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

@@ -9,7 +9,7 @@ using Simple_money_tracker_Core.Abstractions.Models;
 
 namespace SImpleMoneyTracker.WinForms.Implementation.Models
 {
-    internal class Transaction
+    public class Transaction 
     {
         [BsonElement("comment")]
         public string Comment { get; set; }

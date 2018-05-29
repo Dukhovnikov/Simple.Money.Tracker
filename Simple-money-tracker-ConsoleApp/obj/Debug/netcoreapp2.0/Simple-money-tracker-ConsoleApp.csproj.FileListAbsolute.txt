@@ -20,3 +20,14 @@ D:\YandexDisk\Даня\Self-development\Projects\Simple-money-tracker-ConsoleApp
 D:\YandexDisk\Даня\Self-development\Projects\Simple-money-tracker-ConsoleApp\Simple-money-tracker-ConsoleApp\obj\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp.AssemblyInfo.cs
 D:\YandexDisk\Даня\Self-development\Projects\Simple-money-tracker-ConsoleApp\Simple-money-tracker-ConsoleApp\obj\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp.dll
 D:\YandexDisk\Даня\Self-development\Projects\Simple-money-tracker-ConsoleApp\Simple-money-tracker-ConsoleApp\obj\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp.pdb
+D:\Repositories\Simple.Money.Tracker\Simple-money-tracker-ConsoleApp\bin\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp.deps.json
+D:\Repositories\Simple.Money.Tracker\Simple-money-tracker-ConsoleApp\bin\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp.runtimeconfig.json
+D:\Repositories\Simple.Money.Tracker\Simple-money-tracker-ConsoleApp\bin\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp.runtimeconfig.dev.json
+D:\Repositories\Simple.Money.Tracker\Simple-money-tracker-ConsoleApp\bin\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp.dll
+D:\Repositories\Simple.Money.Tracker\Simple-money-tracker-ConsoleApp\bin\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp.pdb
+D:\Repositories\Simple.Money.Tracker\Simple-money-tracker-ConsoleApp\obj\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp.csprojResolveAssemblyReference.cache
+D:\Repositories\Simple.Money.Tracker\Simple-money-tracker-ConsoleApp\obj\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Repositories\Simple.Money.Tracker\Simple-money-tracker-ConsoleApp\obj\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp.AssemblyInfoInputs.cache
+D:\Repositories\Simple.Money.Tracker\Simple-money-tracker-ConsoleApp\obj\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp.AssemblyInfo.cs
+D:\Repositories\Simple.Money.Tracker\Simple-money-tracker-ConsoleApp\obj\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp.dll
+D:\Repositories\Simple.Money.Tracker\Simple-money-tracker-ConsoleApp\obj\Debug\netcoreapp2.0\Simple-money-tracker-ConsoleApp.pdb

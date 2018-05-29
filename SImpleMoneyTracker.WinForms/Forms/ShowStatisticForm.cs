@@ -14,6 +14,7 @@ using MongoDB.Driver;
 using Simple_money_tracker_Core.Abstractions;
 using Simple_money_tracker_Core.Abstractions.Models;
 using SImpleMoneyTracker.WinForms;
+using SImpleMoneyTracker.WinForms.Forms;
 using SImpleMoneyTracker.WinForms.Implementation.Models;
 using Telerik.Charting;
 using Telerik.WinControls.UI;

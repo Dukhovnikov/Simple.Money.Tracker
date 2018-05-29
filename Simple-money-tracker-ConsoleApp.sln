@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple-money-tracker-Core",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMoneyTracker.WinForms", "SImpleMoneyTracker.WinForms\SimpleMoneyTracker.WinForms.csproj", "{6AA86013-A19D-4F90-8778-70D3C7CA2241}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple-money-tracker.Tests", "Simple-money-tracker.Tests\Simple-money-tracker.Tests.csproj", "{86EA134F-DAD0-49E7-8814-E53CC55D821F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6AA86013-A19D-4F90-8778-70D3C7CA2241}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AA86013-A19D-4F90-8778-70D3C7CA2241}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AA86013-A19D-4F90-8778-70D3C7CA2241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86EA134F-DAD0-49E7-8814-E53CC55D821F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86EA134F-DAD0-49E7-8814-E53CC55D821F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86EA134F-DAD0-49E7-8814-E53CC55D821F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86EA134F-DAD0-49E7-8814-E53CC55D821F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

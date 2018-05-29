@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="SImpleMoneyTracker.WinForms.Implementation.Models.Category">
+    <Position X="0.75" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAgAAAAAAAACAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Implementation\Models\Category.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SImpleMoneyTracker.WinForms.Implementation.Models.Project">
+    <Position X="0.75" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAABAAAEQAAAAAAAABAAAA=</HashCode>
+      <FileName>Implementation\Models\Project.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SImpleMoneyTracker.WinForms.Implementation.Models.Transaction">
+    <Position X="0.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAABCAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Implementation\Models\Transaction.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SimpleMoneyTracker.WinForms.Implementation.ProjectBuilderWinForms">
+    <Position X="3.75" Y="10.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAg=</HashCode>
+      <FileName>Implementation\ProjectBuilderWinForms.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SimpleMoneyTracker.WinForms.Implementation.RegistryWinForms">
+    <Position X="0.75" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Implementation\RegistryWinForms.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SimpleMoneyTracker.WinForms.Implementation.ShowDataToUserWinForms">
+    <Position X="0.75" Y="10.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Implementation\ShowDataToUserWinForms.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SimpleMoneyTracker.WinForms.AddCategoryForm">
+    <Position X="11.5" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACAAAAAAAACAAAACAAAAAAAAACAIAQAAAEA=</HashCode>
+      <FileName>Forms\AddCategoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleMoneyTracker.WinForms.AddTransactionForm">
+    <Position X="7.5" Y="3.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAEgABAgACAAACAAAACAABgSAAAAAAAIAAAAAQAAAAA=</HashCode>
+      <FileName>Forms\AddTransactionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleMoneyTracker.WinForms.CreateProjectForm">
+    <Position X="11.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAABBAAACAAAACQAAAAAACAAAAAQAAAAA=</HashCode>
+      <FileName>Forms\CreateProjectForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SImpleMoneyTracker.WinForms.ShowSpendingGraphForm">
+    <Position X="7.5" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAASAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\ShowSpendingGraphForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleMoneyTracker.WinForms.ShowStatisticForm">
+    <Position X="3.75" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>ADEBAoCAACAWAAAAgCmAAAAWAABEBIAYAQAIARAEQEQ=</HashCode>
+      <FileName>Forms\ShowStatisticForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleMoneyTracker.WinForms.Program">
+    <Position X="0.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

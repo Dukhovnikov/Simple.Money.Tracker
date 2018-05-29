@@ -9,7 +9,7 @@ using Simple_money_tracker_Core.Abstractions.Models;
 
 namespace SImpleMoneyTracker.WinForms.Implementation.Models
 {
-    internal class Project
+    public class Project
     {
         [BsonElement("categories")]
         public IList<Category> Categories { get; set; }

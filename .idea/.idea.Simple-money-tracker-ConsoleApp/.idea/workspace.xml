@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1578230-7979-428d-8011-6e2cd232d4b8" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Repository.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Repository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="52" lean-forward="false" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+              <folding>
+                <marker date="1527431604306" expanded="true" signature="6:159" ph="..." />
+                <marker date="1527431604306" expanded="true" signature="242:1645" ph="{...}" />
+                <marker date="1527431604306" expanded="true" signature="408:824" ph="{...}" />
+                <marker date="1527431604306" expanded="true" signature="1429:1639" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ICategory.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Simple-money-tracker-Core/Abstractions/Models/ICategory.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+              <folding>
+                <marker date="1526936245092" expanded="false" signature="6:98" ph="..." />
+                <marker date="1526936245092" expanded="true" signature="188:489" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IProject.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Simple-money-tracker-Core/Abstractions/Models/IProject.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+              <folding>
+                <marker date="1526936245108" expanded="false" signature="6:121" ph="..." />
+                <marker date="1526936245108" expanded="true" signature="178:668" ph="{...}" />
+                <marker date="1526936245108" expanded="true" signature="210:666" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppLogic.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Simple-money-tracker-Core/AppLogic.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <marker date="1527083416323" expanded="false" signature="6:59" ph="..." />
+                <marker date="1527083416323" expanded="true" signature="96:498" ph="{...}" />
+                <marker date="1527083416323" expanded="true" signature="124:496" ph="{...}" />
+                <marker date="1527083416323" expanded="true" signature="174:490" ph="{...}" />
+                <marker date="1527083416323" expanded="true" signature="363:439" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleMoneyTrackerTests.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Simple-money-tracker.Tests/SimpleMoneyTrackerTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-224">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <marker date="1527442488948" expanded="false" signature="6:93" ph="..." />
+                <marker date="1527442488948" expanded="true" signature="131:1484" ph="{...}" />
+                <marker date="1527442488948" expanded="true" signature="192:1482" ph="{...}" />
+                <marker date="1527442488948" expanded="true" signature="255:453" ph="{...}" />
+                <marker date="1527442488948" expanded="true" signature="318:370" ph="{...}" />
+                <marker date="1527442488948" expanded="true" signature="520:623" ph="{...}" />
+                <marker date="1527442488948" expanded="true" signature="690:793" ph="{...}" />
+                <marker date="1527442488948" expanded="true" signature="863:966" ph="{...}" />
+                <marker date="1527442488948" expanded="true" signature="1033:1136" ph="{...}" />
+                <marker date="1527442488948" expanded="true" signature="1206:1309" ph="{...}" />
+                <marker date="1527442488948" expanded="true" signature="1373:1476" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProjectBuilderWinForms.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Implementation/ProjectBuilderWinForms.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1526930771462" expanded="false" signature="6:187" ph="..." />
+                <marker date="1526930771462" expanded="true" signature="241:998" ph="{...}" />
+                <marker date="1526930771462" expanded="true" signature="303:996" ph="{...}" />
+                <marker date="1526930771462" expanded="true" signature="345:470" ph="{...}" />
+                <marker date="1526930771462" expanded="true" signature="508:990" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IProjectBuilder.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Simple-money-tracker-Core/Abstractions/IProjectBuilder.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1526510444377" expanded="true" signature="87:160" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IShowDataToUser.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Simple-money-tracker-Core/Abstractions/IShowDataToUser.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1527083416311" expanded="true" signature="87:125" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IRepository.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/IRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1527431588503" expanded="true" signature="176:364" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ICollectionsModification.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/ICollectionsModification.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1527431578667" expanded="true" signature="91:162" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Implementation/Models/Category.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Implementation/Models/Transaction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Initializer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Forms/ShowStatisticForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Repository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Simple-money-tracker.Tests/SimpleMoneyTrackerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Simple-money-tracker-Core/Abstractions/Models/IProject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Simple-money-tracker-Core/AppLogic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Simple-money-tracker-Core/Abstractions/Models/ICategory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E739C14A-9808-487E-A40F-B075D0105837/59/8f67752c/IMongoCollection`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Forms/AddTransactionForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E739C14A-9808-487E-A40F-B075D0105837/98/789d91ab/IMongoDatabase.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Forms/AddCategoryForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Simple-money-tracker-Core/Abstractions/IRegistry.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Simple-money-tracker-Core/Abstractions/IShowDataToUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Simple-money-tracker-Core/Abstractions/IProjectBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/ICollectionsModification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Implementation/ShowDataToUserWinForms.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Implementation/ProjectBuilderWinForms.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Implementation/RegistryWinForms.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Implementation/Models/Project.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Initializer.cs" />
+        <option value="$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Forms/AddCategoryForm.cs" />
+        <option value="$PROJECT_DIR$/SImpleMoneyTracker.WinForms/ICollectionsModification.cs" />
+        <option value="$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Repository.cs" />
+        <option value="$PROJECT_DIR$/SImpleMoneyTracker.WinForms/IRepository.cs" />
+        <option value="$PROJECT_DIR$/Simple-money-tracker.Tests/Tests.cs" />
+        <option value="$PROJECT_DIR$/Simple-money-tracker.Tests/SimpleMoneyTrackerTests.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Simple-money-tracker-ConsoleApp (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Simple-money-tracker-ConsoleApp (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Simple-money-tracker-ConsoleApp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Simple-money-tracker-ConsoleApp (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Simple-money-tracker-Core" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Simple-money-tracker-ConsoleApp (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Simple-money-tracker.Tests" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Simple-money-tracker-ConsoleApp (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Simple-money-tracker.Tests" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="References" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Simple-money-tracker-ConsoleApp (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Simple-money-tracker.Tests" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="References" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assemblies" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="SearchEverywhereHistoryKey" value="app&#9;null&#9;null" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1578230-7979-428d-8011-6e2cd232d4b8" name="Default" comment="" />
+      <created>1527428191390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527428191390</updated>
+      <workItem from="1527428192727" duration="5464000" />
+      <workItem from="1527440260865" duration="1938000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7402000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26172706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Repository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="52" lean-forward="false" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+          <folding>
+            <marker date="1527431604306" expanded="true" signature="6:159" ph="..." />
+            <marker date="1527431604306" expanded="true" signature="242:1645" ph="{...}" />
+            <marker date="1527431604306" expanded="true" signature="408:824" ph="{...}" />
+            <marker date="1527431604306" expanded="true" signature="1429:1639" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simple-money-tracker-Core/Abstractions/Models/ICategory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <marker date="1526936245092" expanded="false" signature="6:98" ph="..." />
+            <marker date="1526936245092" expanded="true" signature="188:489" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Implementation/ProjectBuilderWinForms.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1526930771462" expanded="false" signature="6:187" ph="..." />
+            <marker date="1526930771462" expanded="true" signature="241:998" ph="{...}" />
+            <marker date="1526930771462" expanded="true" signature="303:996" ph="{...}" />
+            <marker date="1526930771462" expanded="true" signature="345:470" ph="{...}" />
+            <marker date="1526930771462" expanded="true" signature="508:990" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simple-money-tracker-Core/Abstractions/IProjectBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1526510444377" expanded="true" signature="87:160" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simple-money-tracker-Core/Abstractions/IShowDataToUser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1527083416311" expanded="true" signature="87:125" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/IRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1527431588503" expanded="true" signature="176:364" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/ICollectionsModification.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1527431578667" expanded="true" signature="91:162" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Forms/AddTransactionForm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="68" column="20" lean-forward="false" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+          <folding>
+            <marker date="1526993966879" expanded="false" signature="6:300" ph="..." />
+            <marker date="1526993966879" expanded="true" signature="339:2885" ph="{...}" />
+            <marker date="1526993966879" expanded="true" signature="392:2883" ph="{...}" />
+            <marker date="1526993966879" expanded="true" signature="434:1209" ph="{...}" />
+            <marker date="1526993966879" expanded="true" signature="1043:1144" ph="{...}" />
+            <marker date="1526993966879" expanded="true" signature="1289:2695" ph="{...}" />
+            <marker date="1526993966879" expanded="true" signature="1756:1975" ph="{...}" />
+            <marker date="1526993966879" expanded="true" signature="2034:2410" ph="{...}" />
+            <marker date="1526993966879" expanded="true" signature="2127:2396" ph="{...}" />
+            <marker date="1526993966879" expanded="true" signature="2200:2317" ph="{...}" />
+            <marker date="1526993966879" expanded="true" signature="2761:2782" ph="{...}" />
+            <marker date="1526993966879" expanded="true" signature="2856:2877" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Forms/ShowStatisticForm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1527428889779" expanded="false" signature="6:652" ph="..." />
+            <marker date="1527428889779" expanded="true" signature="691:12229" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="743:12227" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="784:974" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="1019:3474" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="1042:2246" ph="/* var labels = new RadialGaugeLabels(); ... */" />
+            <marker date="1527428889779" expanded="true" signature="2261:3463" ph="/* RadialGaugeLabels labels = new RadialGaugeLabels(); ... */" />
+            <marker date="1527428889779" expanded="true" signature="3512:4365" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="4407:5681" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="5017:5671" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="5114:5657" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="5268:5639" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="5391:5617" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="5723:6860" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="6330:6718" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="6427:6704" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="6490:6686" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="6937:7358" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="6963:7209" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="7249:7346" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="7438:7933" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="7464:7719" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="7749:7922" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="8016:8145" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="8225:9781" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="8251:9554" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="8882:9093" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="8977:9075" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="9584:9769" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="9864:11908" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="9890:11680" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="10773:11103" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="10862:11085" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="10947:11063" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="11158:11378" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="11247:11360" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="11710:11896" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="11976:11997" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="12100:12121" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="12200:12221" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simple-money-tracker-Core/Abstractions/Models/IProject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding>
+            <marker date="1526936245108" expanded="false" signature="6:121" ph="..." />
+            <marker date="1526936245108" expanded="true" signature="178:668" ph="{...}" />
+            <marker date="1526936245108" expanded="true" signature="210:666" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Initializer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Implementation/Models/Project.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Implementation/Models/Transaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Implementation/Models/Category.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Implementation/RegistryWinForms.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Implementation/ShowDataToUserWinForms.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simple-money-tracker-Core/Abstractions/IRegistry.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E739C14A-9808-487E-A40F-B075D0105837/98/789d91ab/IMongoDatabase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="48" column="40" lean-forward="false" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E739C14A-9808-487E-A40F-B075D0105837/59/8f67752c/IMongoCollection`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="27" column="14" lean-forward="false" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Forms/AddCategoryForm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Forms/ShowStatisticForm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1527428889779" expanded="false" signature="6:652" ph="..." />
+            <marker date="1527428889779" expanded="true" signature="691:12229" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="743:12227" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="784:974" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="1019:3474" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="1042:2246" ph="/* var labels = new RadialGaugeLabels(); ... */" />
+            <marker date="1527428889779" expanded="true" signature="2261:3463" ph="/* RadialGaugeLabels labels = new RadialGaugeLabels(); ... */" />
+            <marker date="1527428889779" expanded="true" signature="3512:4365" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="4407:5681" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="5017:5671" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="5114:5657" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="5268:5639" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="5391:5617" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="5723:6860" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="6330:6718" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="6427:6704" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="6490:6686" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="6937:7358" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="6963:7209" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="7249:7346" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="7438:7933" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="7464:7719" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="7749:7922" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="8016:8145" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="8225:9781" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="8251:9554" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="8882:9093" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="8977:9075" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="9584:9769" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="9864:11908" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="9890:11680" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="10773:11103" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="10862:11085" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="10947:11063" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="11158:11378" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="11247:11360" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="11710:11896" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="11976:11997" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="12100:12121" ph="{...}" />
+            <marker date="1527428889779" expanded="true" signature="12200:12221" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Forms/AddTransactionForm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="68" column="20" lean-forward="false" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+          <folding>
+            <marker date="1526993966879" expanded="false" signature="6:300" ph="..." />
+            <marker date="1526993966879" expanded="true" signature="339:2885" ph="{...}" />
+            <marker date="1526993966879" expanded="true" signature="392:2883" ph="{...}" />
+            <marker date="1526993966879" expanded="true" signature="434:1209" ph="{...}" />
+            <marker date="1526993966879" expanded="true" signature="1043:1144" ph="{...}" />
+            <marker date="1526993966879" expanded="true" signature="1289:2695" ph="{...}" />
+            <marker date="1526993966879" expanded="true" signature="1756:1975" ph="{...}" />
+            <marker date="1526993966879" expanded="true" signature="2034:2410" ph="{...}" />
+            <marker date="1526993966879" expanded="true" signature="2127:2396" ph="{...}" />
+            <marker date="1526993966879" expanded="true" signature="2200:2317" ph="{...}" />
+            <marker date="1526993966879" expanded="true" signature="2761:2782" ph="{...}" />
+            <marker date="1526993966879" expanded="true" signature="2856:2877" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/ICollectionsModification.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1527431578667" expanded="true" signature="91:162" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/IRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1527431588503" expanded="true" signature="176:364" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Repository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="52" lean-forward="false" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+          <folding>
+            <marker date="1527431604306" expanded="true" signature="6:159" ph="..." />
+            <marker date="1527431604306" expanded="true" signature="242:1645" ph="{...}" />
+            <marker date="1527431604306" expanded="true" signature="408:824" ph="{...}" />
+            <marker date="1527431604306" expanded="true" signature="1429:1639" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SImpleMoneyTracker.WinForms/Implementation/ProjectBuilderWinForms.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1526930771462" expanded="false" signature="6:187" ph="..." />
+            <marker date="1526930771462" expanded="true" signature="241:998" ph="{...}" />
+            <marker date="1526930771462" expanded="true" signature="303:996" ph="{...}" />
+            <marker date="1526930771462" expanded="true" signature="345:470" ph="{...}" />
+            <marker date="1526930771462" expanded="true" signature="508:990" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simple-money-tracker-Core/Abstractions/IShowDataToUser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1527083416311" expanded="true" signature="87:125" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simple-money-tracker-Core/Abstractions/IProjectBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1526510444377" expanded="true" signature="87:160" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simple-money-tracker-Core/Abstractions/Models/ICategory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <marker date="1526936245092" expanded="false" signature="6:98" ph="..." />
+            <marker date="1526936245092" expanded="true" signature="188:489" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simple-money-tracker-Core/Abstractions/Models/IProject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding>
+            <marker date="1526936245108" expanded="false" signature="6:121" ph="..." />
+            <marker date="1526936245108" expanded="true" signature="178:668" ph="{...}" />
+            <marker date="1526936245108" expanded="true" signature="210:666" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simple-money-tracker-Core/AppLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <marker date="1527083416323" expanded="false" signature="6:59" ph="..." />
+            <marker date="1527083416323" expanded="true" signature="96:498" ph="{...}" />
+            <marker date="1527083416323" expanded="true" signature="124:496" ph="{...}" />
+            <marker date="1527083416323" expanded="true" signature="174:490" ph="{...}" />
+            <marker date="1527083416323" expanded="true" signature="363:439" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simple-money-tracker.Tests/SimpleMoneyTrackerTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1527442488948" expanded="false" signature="6:93" ph="..." />
+            <marker date="1527442488948" expanded="true" signature="131:1484" ph="{...}" />
+            <marker date="1527442488948" expanded="true" signature="192:1482" ph="{...}" />
+            <marker date="1527442488948" expanded="true" signature="255:453" ph="{...}" />
+            <marker date="1527442488948" expanded="true" signature="318:370" ph="{...}" />
+            <marker date="1527442488948" expanded="true" signature="520:623" ph="{...}" />
+            <marker date="1527442488948" expanded="true" signature="690:793" ph="{...}" />
+            <marker date="1527442488948" expanded="true" signature="863:966" ph="{...}" />
+            <marker date="1527442488948" expanded="true" signature="1033:1136" ph="{...}" />
+            <marker date="1527442488948" expanded="true" signature="1206:1309" ph="{...}" />
+            <marker date="1527442488948" expanded="true" signature="1373:1476" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
